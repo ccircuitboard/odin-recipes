@@ -1,5 +1,10 @@
-h1 {
+h1, h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: aquamarine;
     color: white;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
 }
