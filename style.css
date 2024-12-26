@@ -13,3 +13,7 @@ img {
     width: 1000px;
     height: 630px;
 }
+
+li {
+    font-style: italic;
+}
