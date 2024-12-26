@@ -8,3 +8,8 @@ a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
 }
+
+img {
+    width: 1200px;
+    height: 630px;
+}
