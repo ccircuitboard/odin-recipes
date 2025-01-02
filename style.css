@@ -11,6 +11,7 @@ h1, h2 {
 a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
+    color: whitesmoke;
 }
 
 img {
@@ -24,5 +25,6 @@ li {
 
 .recipe-list {
     background-color: lightgray;
-
+    margin-right: 1500px;
+    padding-bottom: 300px;
 }
